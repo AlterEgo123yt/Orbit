@@ -1,6 +1,4 @@
 # Orbit  
-<img width="100" height="100" alt="ORBIT logo" src="https://github.com/user-attachments/assets/fc352093-ddb3-4fce-9e37-d1677b0c0505" />
-
  
  **The Central Hub for Software, Design & Creative Projects** 
   
