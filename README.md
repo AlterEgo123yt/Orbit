@@ -6,6 +6,6 @@
 
   **Core Mission:** Constructing intuitive tools, clean visual systems, and thoughtful digital experiences.  
 
-  #List of Current Made Projects:
+  # List of Current Made Projects:
 
   **Orbit Sound**- a completely free and offline music player inspired by spotify with a lot of new features as well. All you have to do is upload your own music and this app curates everything neatly for you. You can create playlists, see and share your listening stats, and all sorts of other things you'll just have to discover. Enjoy an auditory experience you'll never forget!
